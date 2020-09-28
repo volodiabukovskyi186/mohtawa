@@ -1,0 +1,99 @@
+{
+  "HEADER": {
+    "HOME": "الرئيسية",
+    "HOW_IT_WORKS": "كيفة عمل محتوانا",
+    "ABOUT_US": "عن محتوانا",
+    "CONTACT_US": "اتصل بنا",
+    "SING_UP": "سجل معنا"
+  },
+  "FOOTER": {
+    "QUICK": {
+      "TITLE": "Quick Links",
+      "LINK_1": "How It Works",
+      "LINK_2": "About us"
+    },
+    "GET": {
+      "TITLE": "Get Started",
+      "LINK_1": "Get Started",
+      "LINK_2": "Get DNA Sequenced",
+      "LINK_3": "Team"
+    },
+    "PARTNERS": {
+      "TITLE": "Partners",
+      "LINK_1": "Human resources development fund",
+      "LINK_2": "WBENC"
+    },
+    "SOCIAL_TITLE": "Social Media"
+  },
+  "BUTTONS": {
+    "CONTACT_US": "Contact Us",
+    "LOG_IN": "LOG IN"
+  },
+  "HOME": {
+    "ITEM_1_TITLE_1": "وفر الوقت والمال وزد من ",
+    "ITEM_1_TITLE_2": "مساهمة المحتوى المحلي لأعمالك مع محتوانا",
+    "ITEM_1_DESC": "محتوانا هي شركة لتحليل بيانات الأعمال تهدف إلى تعزيز وتوسيع فوائد وفر المحتوى المحلي للمؤسسات الكبيرة والمتوسطة والصغيرة",
+    "ITEM_2_TITLE": "إشترك الآن",
+    "ITEM_2_DESC": "اشترك مجانًا وابدأ في التعرف على خدماتنا لمساعدة أعمالك على النمو واستكشا الفرص التي توفرها مبادرات المحتوى المحلي",
+    "ITEM_3_TITLE": "الآن مع محتوانا",
+    "ITEM_3_SUBTITLE": "يمكن للمؤسسات الكبيرة التواصل مع المؤسسات الصغيرة والمتوسطة من خلال شبكة محتوانا لزيادة مساهمتها في المحتوى المحلي الوطني وفقًا .Vision2030 لأجندة",
+    "ITEM_3_DESC": "تسهل محتوانا مشاركة المشاريع السعودية الصغيرة والمتوسطة في سلاسل التوريد لمشاريع التنمية الوطنية الكبرى , و بالتالي ، زيادة مساهمة المحتوى المحلي الوطني لتلك الشركات والتي من خلالها يمكن أن تتدفق فوائد مشاريع التنمية الوطنية إلى اقتصادياتنا المحلية",
+    "ITEM_4_TITLE": "ما هي شركة محتوانا ؟",
+    "ITEM_4_DESC": "محتوانا هي شركة لتحليل البيانات والذكاء الاصطناعي مكرسة لزيادة مساهمة الشركات السعودية الكبيرة والمتوسطة والصغيرة في المحتوى المحلي القومي من خلال مساعدة تلك الشركات على استكشاف والاستفادة من الفرص العظيمة التي توفرها الإستراتيجية  الحكومية الجديدة لزيادة الأثر الاقتصادي لمساهمة الشركات السعودية في المحتوى المحلي",
+    "ITEM_5_TITLE": "المشكلة",
+    "ITEM_5_DESC": "تم إنشاء الهيئة السعودية للمحتوى المحلي والمشتريات الحكومية بأمر ملكي في أواخر ديسمبر 2018. وهي تعمل على وضع السياسات واللوائح لقياس تأثير المحتوى المحلي بهدف رئيسي يتمثل في زيادة مساهمته في الناتج المحلي الإجمالي للمملكةولكن هناك مشكلة تتمثل في أن معظم الشركات السعودية وخاصة الشركات الصغيرة / متناهية الصغر (التي تشكل أكثر من 90٪ من جميع الشركات السعودية) تفتقر إلى الأدوات والمعلومات المناسبة لزيادة مساهمتها في المحتوى المحلي بكفاءة والاستفادة من الفرص التجارية الكبيرة المتاحة من قبل مبادرات هيئة المحتوى المحلي والمشتريات الحكومية",
+    "ITEM_6_TITLE": "الحل",
+    "ITEM_6_DESC_1": "توفر شبكة محتوانا حلولاً تعتمد على تحليل البيانات والذكاء الاصطناعي لمساعدة الشركات السعودية الحالية و المستقبلية على زيادة مساهمتها في المحتوى المحلي الوطني من خلال استخدام البيانات الخاصة بأعضاء شبكة محتوانا من المنشآت التجارية وربطها مع الفرص المناسبة",
+    "ITEM_6_DESC_2": "Moreover, MOHTAWA will provide e-commerce & QR-code solutions for small/micro enterprises.",
+    "ITEM_7_TITLE": "Our Services",
+    "ITEM_7_CARDS": {
+      "CARD_1_TITLE": "حلول المحتوى المحلي",
+      "CARD_1_DESC": "تقدم محتوانا حلولًا ذكية و مستدامة تعتمد على البيانات لمطابقة المؤسسات الكبيرة والصغيرة  و متناهية الصغر بفرص المحتوى المحلي الامحدودة  وزيادة استدامة ونمو تلك المؤسسات ، مما يساعد على توليد فرص العمل وتوطين الصناعات الإستراتيجية بطريقة منهجية",
+      "CARD_2_TITLE": "تصنيف وتقدير المحتوى المحلي",
+      "CARD_2_DESC": "تساعد خدمة تصنيف وتقييم المحتوى المحلي في محتوانا االمنشآت السعودية على تطوير استراتيجيات مستدامة و مخصصة لزيادة مساهمتها في المحتوى المحلي الوطني . بالإضافة إلى ذلك, تقدم الأدوات المعرفية والتقنية التي تساعد االمنشآت السعودية على إنشاء معايير المحتوى المحلية الخاصة بها والمحافظة عليها",
+      "CARD_3_TITLE": "QR Business Solutions",
+      "CARD_3_DESC": "Implementing QR Codes in your business is extremely beneficial, especially when it comes to promoting the products and services you offer to get new clients and grow you business. Talk to our team to discuss your business needs and make use of our creative QR Code business solutions. "
+    }
+  },
+  "HOW_IT_WORKS": {
+    "ITEM_1_TITLE": "Get Started",
+    "ITEM_1_DESC": "Sign up for free to learn more about our services so you can start  your future small business or grow your existing one. Our goal is your success.",
+    "ITEM_2_TITLE": "Sign Up",
+    "ITEM_2_DESC": "Sign up for free today & begin learning about our services to help your business grow & explore the opportunities provided by the local content .",
+    "ITEM_3_TITLE": "مرحلة المناقشة",
+    "ITEM_3_DESC": "بعد الاشتراك في منصة محتوانا مجاناً ، سيقوم فريقنا بالتواصل لتحديد موعد للاجتماع ومناقشة احتياجات عملك واستكشاف الفرص المتاحة لرفع مساهمة منشأتك في المحتوى المحلي.  مرحلة المناقشة ستساعد فريقنا على فهم طبيعة عمل المنشأة المعنية وتحديد خطة المحتوى المحلي االخاصة بها وفقًا لذلك",
+    "ITEM_4_TITLE": "مرحلة البحث",
+    "ITEM_4_DESC": "مرحلة البحث خلال مرحلة البحث ، سيقوم فريقنا بإجراء تحليل شامل للسوق حول قطاعك المحدد وتحديد نقاط القوة وفرص االمحتوى المحلي المتاحة لتوسيع أعمالك. بعد ذلك سننشئ خطة مخصصة لزيادة مساهمة المحتوى المحلي لنشاطك التجاري. ستتضمن الخطة استراتيجيات االإنجاز والتقييم",
+    "ITEM_5_TITLE": "مرحلة التنفيذ",
+    "ITEM_5_DESC": "سوف تتناول مرحلة التنفيذ الخطوات الرئيسية التي سيتم اتخاذها من أجل تحقيق النتائج المرجوة  خلال جدول زمني محدد مسبقًا",
+    "ITEM_6_TITLE": "مرحلة التنفيذ",
+    "ITEM_6_DESC": "سيقوم فريقنا بتطوير مؤشرات الأداء الرئيسية (KPIs) لكل نتيجة من النتائج المستهدفة من خطة المحتوى المحلية الخاصة بك. سيتم تقييم كل مؤشرات الأداء شهريًا لتحديد ما إذا كنا بحاجة إلى إجراء أي تعديل وفقاً للنتائج"
+  },
+  "ABOUT_US": {
+    "ITEM_1_TITLE": "محتوانا",
+    "ITEM_1_DESC": "محتوانا تم تأسيس منصة محتوانا لمساعدة مؤسسات الأعمال السعودية على التواصل مع بعضها البعض بهدف زيادة مساهمة المحتوى المحلي في الاقتصاد الوطني.  تسخر محتوانا الذكاء الاصطناعي لتجميع و تحليل بيانات القطاع الخاص السعودي و تحديد الفرص المتاحة من مبادرات المحتوى المحلي و عرضعها بشفافية على المنشآت المسجلة في منصتها",
+    "ITEM_2_TITLE": "رؤية محتوانا",
+    "ITEM_2_DESC": "عندما يتعلق الأمر بالمحتوى المحلي ، فإن رؤية محتوانا تتماشى تمامًا مع رؤية 2030  . في  محتوانا , نهدف إلى تطوير دور وتأثير المحتوى المحلي في الإقتصاد الوطني وتوفير السُبل و الأدوات التقنية و المعلوماتية لرفع مساهمة المنشآت االسعودية في المحتوى المحلي لتحقيق تنمية مستدامة و إقتصاد مزدهر",
+    "ITEM_3_TITLE": "Partners"
+  },
+  "CONTACT_US": {
+    "ITEM_1_TITLE": "Contact Us",
+    "FORM_TITLE": "Want to know more?",
+    "FORM_SUBTITLE": "Get in Touch!",
+    "FORM_PLACEHOLDER_NAME": "Name",
+    "FORM_PLACEHOLDER_EMAIL": "Email",
+    "FORM_PLACEHOLDER_PHONE": "Phone",
+    "FORM_PLACEHOLDER_COUNTRY": "Country/City",
+    "FORM_PLACEHOLDER_DESC": "Description"
+  },
+  "COMING_SOON": {
+    "TITLE": "Coming soon!",
+    "DESC": "Register your interest below to be the first to know when we go live"
+  },
+  "MAIN_CARDS": {
+    "CARD_1_TITLE": "Sign up for free today and begin earning tokens.",
+    "CARD_1_DESC": "Sign up for free today and begin earning tokens. These can later be used to get your DNA sequenced and make use of DNA-powered services on our platform.",
+    "CARD_2_TITLE": "Secure storage in your personal vault",
+    "CARD_2_DESC": "Purchase clinical quality (30x) whole genome sequencing and secure storage in your personal vault. Learn about your genes, own your DNA and be among the first to be paid to power scientific research"
+  }
+}

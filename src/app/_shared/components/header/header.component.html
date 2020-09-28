@@ -1,0 +1,33 @@
+<header class="container">
+  <div class="header-wrap">
+    <div class="header-left"
+         routerLink="/"
+         (click)="isOpenedMenu = true;menuToggle.emit(isOpenedMenu)">
+      <img class="header-logo desktop" src="../../../../assets/images/logo.svg" alt="logo">
+      <img class="header-logo mobile" src="../../../../assets/images/logo-mob.svg" alt="logo">
+    </div>
+    <div class="header-right">
+      <div class="menu-burger" (click)="isOpenedMenu =! isOpenedMenu ; menuToggle.emit(isOpenedMenu)">
+        <img src="../../../../assets/images/burger-menu.svg" alt="burger-icon">
+      </div>
+      <nav class="header-nav"
+           [class.showMenu]="!isOpenedMenu">
+        <a
+          (click)="isOpenedMenu = true"
+          *ngFor="let link of headerLinks"
+          class="header-nav__link"
+          [routerLink]="link.link">{{link.title | translate}}</a>
+        <div class="nav__language">
+          <a (click)="changeLang('en')"  *ngIf="lang=='ar'"><span><img src="../../../../assets/icons/header/en.png"></span>ENG</a>
+          <a (click)="changeLang('ar')" *ngIf="lang=='en'"><span><img src="../../../../assets/icons/header/ar.png"></span>AR</a>
+        </div>
+
+        <div
+          (click)="isOpenedMenu = true"
+          class="header-nav__log-in main-button"
+          routerLink="/soon">{{"BUTTONS.LOG_IN" | translate}}
+        </div>
+      </nav>
+    </div>
+  </div>
+</header>

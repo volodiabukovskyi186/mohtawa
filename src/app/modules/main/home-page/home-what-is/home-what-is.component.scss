@@ -1,0 +1,18 @@
+.content-wrap {
+  padding: 57px 0;
+
+  .right-content {
+    max-width: 430px;
+    @media screen and (max-width: 900px) {
+      max-width: 100%;
+      padding: 50px 0;
+    }
+
+    .title {
+      font-size: 50px;
+      @media screen and (max-width: 900px) {
+        font-size: 35px;
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+.content-wrap {
+  padding-top: 50px;
+  @media screen and (max-width: 1250px) {
+    padding-top: 0;
+  }
+  @media screen and (max-width: 900px) {
+    flex-direction: column-reverse;
+  }
+
+  .title {
+    font-size: 60px;
+    @media screen and (max-width: 900px) {
+      font-size: 35px;
+      text-align: center;
+    }
+  }
+
+  .left-content {
+    .title {
+      @media screen and (max-width: 1000px) {
+        font-size: 35px;
+      }
+    }
+  }
+
+  .right-content {
+    position: relative;
+    top: -100px;
+    right: -50px;
+    @media screen and (max-width: 1300px) {
+      top: -50px;
+      right: 0;
+    }
+    @media screen and (max-width: 1200px) {
+      top: -100px;
+    }
+    @media screen and (max-width: 1000px) {
+      top: -70px;
+    }
+    @media screen and (max-width: 900px) {
+      top: 0;
+      margin-top: -70px;
+
+      @media screen and (max-width: 400px) {
+        padding-bottom: 120px;
+      }
+    }
+  }
+
+  .contact-row {
+    display: flex;
+    max-width: 417px;
+    padding-bottom: 20px;
+    @media screen and (max-width: 900px) {
+      max-width: 100%;
+    }
+
+    .contact-icon {
+      max-width: 26px;
+      margin-right: 35px;
+      @media screen and (max-width: 900px) {
+        width: 20px;
+      }
+    }
+
+    .description {
+      font-size: 20px;
+      margin-top: -2px;
+      @media screen and (max-width: 900px) {
+        font-size: 16px;
+      }
+    }
+
+    .mail-pos {
+      display: flex;
+      flex-direction: column;
+      @media screen and (max-width: 900px) {
+        margin-top: -7px;
+      }
+    }
+
+    .column {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+}

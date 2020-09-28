@@ -1,0 +1,99 @@
+{
+  "HEADER": {
+    "HOME": "HOME",
+    "HOW_IT_WORKS": "How It Works",
+    "ABOUT_US": "About Us",
+    "CONTACT_US": "Contact",
+    "SING_UP": "Singup"
+  },
+  "FOOTER": {
+    "QUICK": {
+      "TITLE": "Quick Links",
+      "LINK_1": "How It Works",
+      "LINK_2": "About us"
+    },
+    "GET": {
+      "TITLE": "Get Started",
+      "LINK_1": "Get Started",
+      "LINK_2": "Get DNA Sequenced",
+      "LINK_3": "Team"
+    },
+    "PARTNERS": {
+      "TITLE": "Partners",
+      "LINK_1": "Human resources development fund",
+      "LINK_2": "WBENC"
+    },
+    "SOCIAL_TITLE": "Social Media"
+  },
+  "BUTTONS": {
+    "CONTACT_US": "Contact Us",
+    "LOG_IN": "LOG IN"
+  },
+  "HOME": {
+    "ITEM_1_TITLE_1": "A Data Company",
+    "ITEM_1_TITLE_2": "for Enhancing & Extending",
+    "ITEM_1_DESC": "A Data Company for Enhancing & Extending the Benefits & Opportunities of Local Content to Small & Micro Enterprises",
+    "ITEM_2_TITLE": "Sign Up",
+    "ITEM_2_DESC": "Sign up for free today & begin learning about our services to help your business grow & explore the opportunities provided by the local content.",
+    "ITEM_3_TITLE": "NOW with MOHTAW",
+    "ITEM_3_SUBTITLE": "Small & Micro Business Can Easily Participate in the Supply Chains of major national development projects",
+    "ITEM_3_DESC": "The participation of local businesses in national and regional resource projects provides great opportunities for local small and micro enterprises by which the benefits of resource development can flow into their local economics.",
+    "ITEM_4_TITLE": "What is MOHATAW?",
+    "ITEM_4_DESC": "MOHTAWA is a data-analytics company dedicated to increase the contribution of small and micro enterprises by helping those enterprises explore and utilize the great opportunities offered by the new government strategy to increase the economic impact of local content.",
+    "ITEM_5_TITLE": "The Problem",
+    "ITEM_5_DESC": "The MENA Local Content and Government Procurement Authority was established by a royal order late December 2018. It works on setting policies & regulations to measure the impact of local content with main goal of raising its contribution to the GDP. However, there is a problem…most small/micro enterprises (which constitute more than 90% of all MENA enterprises) lack the appropriate tools and information to effectively utilize the great business opportunities offered by the MENA Local Content Authority.",
+    "ITEM_6_TITLE": "Our Solution",
+    "ITEM_6_DESC_1": "MOHATAW’s business model provides data-driven solutions to help existing and potential small/micro enterprises increase their contribution in the local content by utilizing our data algorithms to match them with appropriate opportunities.",
+    "ITEM_6_DESC_2": "Moreover, MOHTAWA will provide e-commerce & QR-code solutions for small/micro enterprises.",
+    "ITEM_7_TITLE": "Our Services",
+    "ITEM_7_CARDS": {
+      "CARD_1_TITLE": "Local Content Solutions",
+      "CARD_1_DESC": "To MOHTAWA’s algorithm offers creative solution for matching small/micro enterprises with great local content opportunities and increasing the sustainability and growth of those enterprises, which helps generate jobs and localize strategic industries in a systematic way. ",
+      "CARD_2_TITLE": "Local Content Solutions",
+      "CARD_2_DESC": "MOHTAWA’s team can help small/micro business owners visualize their ideas and convert them into elegant designs, great experiences and catchy brands. MOHTAWA offers website and mobile application development in addition to digital marketing services. ",
+      "CARD_3_TITLE": "QR Business Solutions",
+      "CARD_3_DESC": "Implementing QR Codes in your business is extremely beneficial, especially when it comes to promoting the products and services you offer to get new clients and grow you business. Talk to our team to discuss your business needs and make use of our creative QR Code business solutions. "
+    }
+  },
+  "HOW_IT_WORKS": {
+    "ITEM_1_TITLE": "Get Started",
+    "ITEM_1_DESC": "Sign up for free to learn more about our services so you can start  your future small business or grow your existing one. Our goal is your success.",
+    "ITEM_2_TITLE": "Sign Up",
+    "ITEM_2_DESC": "Sign up for free today & begin learning about our services to help your business grow & explore the opportunities provided by the local content .",
+    "ITEM_3_TITLE": "Discussion Phase",
+    "ITEM_3_DESC": "After getting started and signing up with MOHTAWA, our team members will contact you to schedule a meeting to discuss your business needs and explore growth opportunities from Local Content and E-commerce. The discussion phase will help our team understand the nature of the business and customize its strategic local content plan accordingly.",
+    "ITEM_4_TITLE": "Research Phase",
+    "ITEM_4_DESC": "During the research phase, our team will conduct an extensive market analysis on your specific sector and identify the main strengths and opportunities of your business. After that we create a customized plan for your business. The Plan will contain include the implantation and evaluation strategies.",
+    "ITEM_5_TITLE": "Implementation Phase",
+    "ITEM_5_DESC": "The implementation phase will address the majors steps your business needs to take in order to achieve the desired outcomes of the implementation during a predetermined timeline. There will be a timeline for",
+    "ITEM_6_TITLE": "Assessment & Evaluation",
+    "ITEM_6_DESC": "Our team will develop Key Performance Indicators (KPIs) for each desired outcome of your project. Each KPI will be evaluated monthly to determine if we need to make any adjustment to the KPI or strategic objectives."
+  },
+  "ABOUT_US": {
+    "ITEM_1_TITLE": "Our Company",
+    "ITEM_1_DESC": "Our story started when the owner of a small MENA business located in south district of Amman city. The name of the business is Golden Consumer and was founded in January of 2018 and during the slow economic period.  founders of MOHTAWA (Suliman & Saeed)",
+    "ITEM_2_TITLE": "Our Vision",
+    "ITEM_2_DESC": "We aim to transform the role and impact of local content in creating small and micro enterprises and supporting existing ones by utilizing the unlimited opportunities for growth and long-term sustainability.",
+    "ITEM_3_TITLE": "Partners"
+  },
+  "CONTACT_US": {
+    "ITEM_1_TITLE": "Contact Us",
+    "FORM_TITLE": "Want to know more?",
+    "FORM_SUBTITLE": "Get in Touch!",
+    "FORM_PLACEHOLDER_NAME": "Name",
+    "FORM_PLACEHOLDER_EMAIL": "Email",
+    "FORM_PLACEHOLDER_PHONE": "Phone",
+    "FORM_PLACEHOLDER_COUNTRY": "Country/City",
+    "FORM_PLACEHOLDER_DESC": "Description"
+  },
+  "COMING_SOON": {
+    "TITLE": "Coming soon!",
+    "DESC": "Register your interest below to be the first to know when we go live"
+  },
+  "MAIN_CARDS": {
+    "CARD_1_TITLE": "Sign up for free today and begin earning tokens.",
+    "CARD_1_DESC": "Sign up for free today and begin earning tokens. These can later be used to get your DNA sequenced and make use of DNA-powered services on our platform.",
+    "CARD_2_TITLE": "Secure storage in your personal vault",
+    "CARD_2_DESC": "Purchase clinical quality (30x) whole genome sequencing and secure storage in your personal vault. Learn about your genes, own your DNA and be among the first to be paid to power scientific research"
+  }
+}

@@ -1,0 +1,13 @@
+<app-header (isOpenedMenu)="isOpenedMenu($event)"></app-header>
+<div class="main-top-bg how-top-bg how-top-mobile"></div>
+<div class="container"
+     [class.menuPos]="!closedMenu">
+  <div class="contentPos transition">
+    <app-how-top></app-how-top>
+    <app-how-sing-up></app-how-sing-up>
+    <app-how-discussion></app-how-discussion>
+    <app-how-research></app-how-research>
+    <app-how-implementation></app-how-implementation>
+    <app-how-assessment></app-how-assessment>
+  </div>
+</div>

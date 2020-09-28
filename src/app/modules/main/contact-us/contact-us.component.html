@@ -1,0 +1,9 @@
+<app-header (isOpenedMenu)="isOpenedMenu($event)"></app-header>
+<div class="main-top-bg how-top-bg"></div>
+<div class="container"
+     [class.menuPos]="!closedMenu">
+  <div class="contentPos transition">
+    <app-contact-top></app-contact-top>
+    <app-contact-form></app-contact-form>
+  </div>
+</div>

@@ -1,0 +1,15 @@
+<app-header (isOpenedMenu)="isOpenedMenu($event)"></app-header>
+<div class="main-top-bg"></div>
+<div
+  [class.menuPos]="!closedMenu"
+  class="container" >
+  <div class="contentPos transition">
+    <app-home-top></app-home-top>
+    <app-home-sing-up></app-home-sing-up>
+    <app-home-now></app-home-now>
+    <app-home-what-is></app-home-what-is>
+    <app-home-problem></app-home-problem>
+    <app-home-solution></app-home-solution>
+    <app-home-services></app-home-services>
+  </div>
+</div>

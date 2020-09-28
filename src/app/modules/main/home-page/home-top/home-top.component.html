@@ -1,0 +1,12 @@
+<div class="content-wrap" data-aos="fade-up" data-aos-once="true"  data-aos-anchor-placement="top-center">
+  <div class="left-content">
+    <h2 class="home-top-title title">{{"HOME.ITEM_1_TITLE_1" | translate}}</h2>
+    <h2 class="title">{{"HOME.ITEM_1_TITLE_2" | translate}}</h2>
+    <p class="description">{{"HOME.ITEM_1_DESC" | translate}}
+    </p>
+    <div class="main-button main-button-fill" routerLink="/contact-us">{{"BUTTONS.CONTACT_US" | translate}}</div>
+  </div>
+  <div class="right-content svg-response">
+    <ng-lottie [options]="options" (animationCreated)="animationCreated($event)"></ng-lottie>
+  </div>
+</div>

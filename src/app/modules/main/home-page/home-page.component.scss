@@ -1,0 +1,10 @@
+.main-top-bg {
+  background-position-y: -1px;
+  background-image: url("src/assets/images/main-top-bg.png");
+  @media screen and (max-width: 400px) {
+    background-image: url("src/assets/images/main-bg-mobile.svg");
+  }
+}
+.end{
+  text-align: end;
+}

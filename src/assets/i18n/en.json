@@ -1,0 +1,103 @@
+{
+  "HEADER": {
+    "HOME": "HOME",
+    "HOW_IT_WORKS": "How It Works",
+    "ABOUT_US": "About Us",
+    "CONTACT_US": "Contact",
+    "SING_UP": "Singup"
+  },
+  "FOOTER": {
+    "QUICK": {
+      "TITLE": "Quick Links",
+      "LINK_1": "How It Works",
+      "LINK_2": "About us"
+    },
+    "GET": {
+      "TITLE": "Get Started",
+      "LINK_1": "Get Started",
+      "LINK_2": "Get DNA Sequenced",
+      "LINK_3": "Team",
+      "LINK_4": "Signup Now",
+      "LINK_5": "Contact US"
+
+    },
+    "PARTNERS": {
+      "TITLE": "Partners",
+      "LINK_1": "Human resources development fund",
+      "LINK_2": "WBENC",
+      "LINK_3": "To be announced"
+    },
+    "SOCIAL_TITLE": "Social Media"
+  },
+  "BUTTONS": {
+    "CONTACT_US": "Contact Us",
+    "LOG_IN": "LOG IN"
+  },
+  "HOME": {
+    "ITEM_1_TITLE_1": "Save Time & Money and",
+    "ITEM_1_TITLE_2": "Increase Your Business Local Content Contribution with MOTAWANA",
+    "ITEM_1_DESC": "MOTAWANA is a Business Data Company for Enhancing & Extending the Benefits & Opportunities of Local Content to Large, Medium & Small Enterprises",
+    "ITEM_2_TITLE": "Sign Up",
+    "ITEM_2_DESC": "Sign up for free today & begin learning about our services to help your business grow & explore the opportunities provided by the local content initiatives.",
+    "ITEM_3_TITLE": "NOW with MOHTAWANA",
+    "ITEM_3_SUBTITLE": "Large Enterprises Can Connect with Small & Medium Enterprises through MOTAWANA’s Network to Increase their Contribution to the National Local Content in accordance with the Vision2030 Agenda.",
+    "ITEM_3_DESC": "MOHTAWANA facilitates the participation of Saudi small and medium enterprises in the supply chains of major national development projects; therefore, increasing the national local content contribution of those enterprises by which the benefits of resource development can flow into their local economics.",
+    "ITEM_4_TITLE": "What is MOHTAWANA?",
+    "ITEM_4_DESC": "MOHTAWANA is a data-analytics and artificial intelligence company dedicated to increase the contribution of Saudi large, medium and small enterprises by helping those enterprises explore and utilize the great opportunities offered by the new government strategy to increase the economic impact and local content contribution of Saudi enterprises.",
+    "ITEM_5_TITLE": "The Problem",
+    "ITEM_5_DESC": "The Saudi Local Content and Government Procurement Authority was established by a royal order late December 2018. It works on setting  policies & regulations to measure the impact of local content with the main goal of raising its contribution to the GDP.However, there is a problem…most Saudi enterprises and especially small/micro enterprises (which constitute more than 90% of all Saudi enterprises) lack the appropriate tools and information to efficiently increase their local content contribution and utilize the great business opportunities offered by the Local Content Government Procurement Authority.",
+    "ITEM_6_TITLE": "Our Solution",
+    "ITEM_6_DESC_1": "MOHATAW’s business network provides data-driven solutions to help existing and potential Saudi enterprises increase their contribution to the national local content by utilizing our data algorithms to match them with appropriate opportunities.",
+    "ITEM_6_DESC_2": "Moreover, MOHTAWA will provide e-commerce & QR-code solutions for small/micro enterprises.",
+    "ITEM_7_TITLE": "Our Services",
+    "ITEM_7_CARDS": {
+      "CARD_1_TITLE": "Local Content Solution",
+      "CARD_1_DESC": "MOHTAWANA offers data-driven solutions for matching large and small/micro enterprises with great local content opportunities and increasing the sustainability and growth of those enterprises, which helps generate jobs and localize strategic industries in a systematic way.",
+      "CARD_2_TITLE": "Local Content Rating",
+      "CARD_2_DESC": "MOHTAWA’s Local Content Scoring service helps Saudi enterprises develop customized strategies to increase their local content contribution to the national economy. We offer tools that help enterprises establish and maintain their local content benchmarks",
+      "CARD_3_TITLE": "QR Business Solutions",
+      "CARD_3_DESC": "Implementing QR Codes in your business is extremely beneficial, especially when it comes to promoting the products and services you offer to get new clients and grow you business. Talk to our team to discuss your business needs and make use of our creative QR Code business solutions. "
+    }
+  },
+  "HOW_IT_WORKS": {
+    "ITEM_1_TITLE": "Get Started",
+    "ITEM_1_DESC": "Sign up for free to learn more about our services so you can start  your future small business or grow your existing one. Our goal is your success.",
+    "ITEM_2_TITLE": "Sign Up",
+    "ITEM_2_DESC": "Sign up for free today & begin learning about our services to help your business grow & explore the opportunities provided by the local content .",
+    "ITEM_3_TITLE": "Discussion Phase",
+    "ITEM_3_DESC": "After getting started and signing up with MOHTAWANA, our team will contact you to schedule a meeting to discuss your business needs and explore local content growth opportunities. The discussion phase will help our team understand the nature of your business and customize its strategic local content plan accordingly.",
+    "ITEM_4_TITLE": "Research Phase",
+    "ITEM_4_DESC": "During the research phase, our team will conduct an extensive market analysis on your specific sector and identify the main strengths and opportunities of your business. After that we will create a customized plan to increase your business’s local content contribution. The Plan will include the implantation and evaluation strategies.",
+    "ITEM_5_TITLE": "Implementation Phase",
+    "ITEM_5_DESC": "The implementation phase will address the major steps your business needs to take in order to achieve the desired outcomes of the implementation during a predetermined timeline.",
+    "ITEM_6_TITLE": "Assessment & Evaluation",
+    "ITEM_6_DESC": "Our team will develop Key Performance Indicators (KPIs) for each desired outcome of your local content plan. Each KPI will be evaluated monthly to determine if we need to make any adjustment to the KPI or the specific outcomes it measures."
+  },
+  "ABOUT_US": {
+    "ITEM_1_TITLE": "Our Company",
+    "ITEM_1_DESC": "MOTAWANA was born to help Saudi business enterprises connect with each other with the goal of increasing their local content contribution to the national economy. We utilize data-analytics and artificial intelligence to provide data-driven solutions for our members.",
+    "ITEM_2_TITLE": "Our Vision",
+    "ITEM_2_DESC": "When it comes to local content, our vision is perfectly in line with Vision2030. We aim to transform the role and economic impact of local content in the Saudi economy by offering technological and informational solutions to help Saudi business enterprises become economically sustainable and increase their local content contribution to the national GDP.",
+    "ITEM_3_TITLE": "Partners"
+  },
+  "CONTACT_US": {
+    "ITEM_1_TITLE": "Contact Us",
+    "FORM_TITLE": "Want to know more?",
+    "FORM_SUBTITLE": "Get in Touch!",
+    "FORM_PLACEHOLDER_NAME": "Name",
+    "FORM_PLACEHOLDER_EMAIL": "Email",
+    "FORM_PLACEHOLDER_PHONE": "Phone",
+    "FORM_PLACEHOLDER_COUNTRY": "Country/City",
+    "FORM_PLACEHOLDER_DESC": "Description"
+  },
+  "COMING_SOON": {
+    "TITLE": "Coming soon!",
+    "DESC": "Register your interest below to be the first to know when we go live"
+  },
+  "MAIN_CARDS": {
+    "CARD_1_TITLE": "Sign up for free today and begin earning tokens.",
+    "CARD_1_DESC": "Sign up for free today and begin earning tokens. These can later be used to get your DNA sequenced and make use of DNA-powered services on our platform.",
+    "CARD_2_TITLE": "Secure storage in your personal vault",
+    "CARD_2_DESC": "Purchase clinical quality (30x) whole genome sequencing and secure storage in your personal vault. Learn about your genes, own your DNA and be among the first to be paid to power scientific research"
+  }
+}

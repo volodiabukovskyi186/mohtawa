@@ -1,0 +1,53 @@
+<div class="content-wrap" data-aos="fade-up" data-aos-once="true" data-aos-anchor-placement="top-center">
+  <h3 class="title">{{"CONTACT_US.FORM_TITLE"|translate}}</h3>
+  <span class="blue-text">{{"CONTACT_US.FORM_SUBTITLE"|translate}}</span>
+  <form class="form" [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="form-row">
+      <div class="form-item">
+        <input class="form-input"
+               [ngClass]="{'has-error':form.get('name').invalid&&form.get('name').touched}"
+               type="text"
+               placeholder="{{ 'CONTACT_US.FORM_PLACEHOLDER_NAME' | translate }}"
+               formControlName="name">
+      </div>
+      <div class="form-item">
+        <input class="form-input"
+               [ngClass]="{'has-error':form.get('email').invalid&&form.get('email').touched}"
+               type="text"
+               placeholder="{{ 'CONTACT_US.FORM_PLACEHOLDER_EMAIL' | translate }}"
+               formControlName="email">
+      </div>
+    </div>
+    <div class="form-row">
+      <div class="form-item">
+        <input class="form-input"
+               [ngClass]="{'has-error':form.get('phone').invalid&&form.get('phone').touched}"
+               type="text"
+               placeholder="{{ 'CONTACT_US.FORM_PLACEHOLDER_PHONE' | translate }}"
+               formControlName="phone">
+      </div>
+      <div class="form-item">
+        <input class="form-input"
+               [ngClass]="{'has-error':form.get('country').invalid&&form.get('country').touched}"
+               type="text"
+               placeholder="{{ 'CONTACT_US.FORM_PLACEHOLDER_COUNTRY' | translate }}"
+               formControlName="country">
+      </div>
+    </div>
+    <div class="form-row">
+      <div class="form-item descr-item">
+        <textarea class="form-input descr-input"
+                  type="text"
+                  placeholder="{{ 'CONTACT_US.FORM_PLACEHOLDER_DESC' | translate }}"
+                  formControlName="description">
+        </textarea>
+      </div>
+    </div>
+    <div class="form-btn buttons">
+      <button class="main-button main-button-fill"
+              type="submit">Send
+      </button>
+    </div>
+  </form>
+</div>
+<div class="anchor-form"></div>

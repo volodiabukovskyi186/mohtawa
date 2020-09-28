@@ -1,0 +1,14 @@
+.content-wrap {
+  padding: 37px 0;
+  @media screen and (max-width: 900px) {
+    flex-direction: column-reverse;
+  }
+
+  .left-content {
+    max-width: 610px;
+    @media screen and (max-width: 900px) {
+      max-width: 100%;
+      padding: 50px 0 0;
+    }
+  }
+}

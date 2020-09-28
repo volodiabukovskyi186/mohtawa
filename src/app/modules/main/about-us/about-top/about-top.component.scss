@@ -1,0 +1,37 @@
+.content-wrap {
+  padding-top: 250px;
+  @media screen and (max-width: 1400px) {
+    padding-top: 200px;
+  }
+  @media screen and (max-width: 1300px) {
+    padding-top: 150px;
+  }
+  @media screen and (max-width: 1000px) {
+    padding-top: 100px;
+  }
+
+  .title {
+    font-size: 60px;
+    @media screen and (max-width: 900px) {
+      font-size: 35px;
+    }
+  }
+
+  .left-content {
+    max-width: 490px;
+    @media screen and (max-width: 900px) {
+      padding-top: 430px;
+      max-width: 100%;
+      padding-right: 0;
+    }
+    @media screen and (max-width: 600px) {
+      padding-top: 350px;
+    }
+    @media screen and (max-width: 500px) {
+      padding-top: 330px;
+    }
+    @media screen and (max-width: 450px) {
+      padding-top: 250px;
+    }
+  }
+}

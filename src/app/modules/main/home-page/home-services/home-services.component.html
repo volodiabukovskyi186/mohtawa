@@ -1,0 +1,17 @@
+<div class="content-wrap" data-aos="fade-up">
+  <h2 class="title">{{"HOME.ITEM_7_TITLE" | translate}}</h2>
+</div>
+<div class="cards-container">
+  <div class="cards-wrap">
+    <div class="card-wrap"
+         *ngFor="let card of cards">
+      <div class="card-icon">
+        <img [src]="card.imgSrc"
+             [style.width.px]="card.imgSize"
+             alt="icon">
+      </div>
+      <h4 class="title">{{card.title | translate}}</h4>
+      <p class="description">{{card.description | translate}}</p>
+    </div>
+  </div>
+</div>
